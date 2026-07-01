@@ -7,7 +7,7 @@ Customer Shopping Behavior Analysis is an end-to-end Data Analytics project that
 The objective is to transform raw customer data into meaningful business insights that support better decision-making.
 
 ---
-<img width="1336" height="717" alt="image" src="https://github.com/user-attachments/assets/b5ef6e92-001b-4d19-822c-b413ec908651" />
+<img width="1337" height="735" alt="image" src="https://github.com/user-attachments/assets/dfefdf9a-4790-4f4e-b36a-623dcea35349" />
 
 # 📂 Dataset
 
